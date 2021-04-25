@@ -1,6 +1,6 @@
 Main libraries used:
 
-Flask - for web server
+Flask - for web server.
 Flask-Migrate - database migrations.
 Flask-Script - support for writing external scripts used with db migrations.
 Flask-RESTful - restful API library.
